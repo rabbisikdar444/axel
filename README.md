@@ -1,0 +1,35 @@
+# 🛒 E-Commerce Website Frontend
+
+A sleek, fully responsive e-commerce storefront built from scratch 
+with pure HTML, CSS & JavaScript — zero dependencies, 
+modern UI, live on GitHub Pages.
+
+## 🔗 Live Demo
+[View Live →](https://harisshahnawaz.github.io/e-commerce-website-frontend/)
+
+## 📸 Screenshot
+![E-Commerce Screenshot](screenshot.png)
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📄 Pages
+- Home
+- Products
+- Product Detail
+- Cart
+- Account
+- About
+
+## ✨ Features
+- Fully responsive design
+- Multi-page e-commerce layout
+- Product listing & detail pages
+- Shopping cart page
+- User account page
+- Modern clean UI
+
+## 📬 Contact
+**Haris Shahnawaz** — [LinkedIn](https://www.linkedin.com/in/haris-shahnawaz-670aa8291/) | [Email](mailto:harisshahnawaz97@gmail.com)
